@@ -147,7 +147,7 @@ export default function App(){
     </div>
 
     {/* container for notes */}
-    <div className="flex flex-wrap gap-3 px-10 py-5 w-full">
+    <div className="flex flex-wrap justify-start items-start gap-3 px-10 py-5 w-full">
 
       {/* loader for notes */}
       {
